@@ -1,0 +1,2 @@
+SELECT * FROM `pribadi` WHERE 1
+SELECT * FROM `pendidikan` WHERE 1
